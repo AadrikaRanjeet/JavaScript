@@ -17,3 +17,27 @@ let a=89;
     console.log(a);
 }
 console.log(a);
+
+
+const x="Aadrika";
+let y=88;
+let z=3.55;
+const p=true;
+let q=undefined;
+let r=null;
+
+console.log(typeof x, typeof y, typeof z,typeof q, typeof p,typeof r,);
+
+
+
+//object :- key value pair
+let obj={
+    name:"Aadrika",//name:-key , and Aadrika :- value hai 
+    Age:21,
+    Rollno:'21BCG10088',
+    "job role":"Web developer",//job role ko double quote pe isliye daala hai kyunki beech m space hai job aur role ke
+
+}
+console.log(obj);
+obj.name="Apoorva";//to change the object
+console.log(obj);
