@@ -52,5 +52,6 @@ for(const iterator of arr)
    console.log(iterator)
 }
 
+//some more things left 
 //map :- creates a new array by performing some operation on each array element
 
