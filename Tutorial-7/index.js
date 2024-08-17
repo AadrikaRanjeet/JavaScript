@@ -32,6 +32,5 @@ console.log(name.replace("Aadrika","Apoorva"));
 //concat
 console.log(name.concat(secondname));
 console.log(name.concat(secondname," is "));
-
-
 //Strings are immutable ie they remain unchanged
+//also there are many more methods in string class
